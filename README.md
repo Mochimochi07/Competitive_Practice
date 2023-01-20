@@ -1,36 +1,48 @@
 # Competitive_Practice
 (Aj's Competitive programming Repo)
 
-This is my competitive programming Repo.
+This is my new Repo.
 
-I think i would stay on learning javascript for a long time.
+I didn't make a new one because its time consuming.
 
-it would take me months to go back to golang.
+Now, im going to focus more on being competitive from now on including the web repos.
 
-I saw tons of Sources here and I am really learning a lot.
+i like this thing.
 
-I thought of making algorithms for a while.
+Its like i feel im in a hackathon.
 
-I had a hobby of Learning data science back then.
+Its so sweet and i love to make it a go for it.
 
-Well i do have a decade of experince making recommended items for games.
+Well i do have knowledge for some algorithms and questions.
 
-I have learned the ways in making AI before.
+I REALLY WANT TO GO FOR IT!
 
-I literally dont make AI back then but i did know how these things work.
+I want to be in it and make apps in minutes.
 
-I learned appreciating robots,card games,etc.
+I just knew it and i wanted to find it within my curiosity.
 
-I have learned how to be strategic within the years.
+I'll be using C++ so it make take a little while to practice.
 
-I want to try being competitive and show my view.
+I hae stock knowledge about c++ so i might have a little time for getting the hang of it in a few hours.
 
-I like algorithms so much so i make things different.
+C# with Xojo. 
 
-My answers are quite different and people will see how i view things differently.
+Golang with javascript. 
 
-i want to make things simple as practice as you know what they say.
+and C++ for mostly everything.
 
-the Simpler the programs the more experienced the programmer.
+The trinity for coding is now complete.
+
+Feel free to see my pratice in this repo.
+
+
+
+
+
+
+
+
+
+
 
 
