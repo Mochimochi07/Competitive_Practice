@@ -19,6 +19,10 @@ I REALLY WANT TO GO FOR IT!
 
 I want to be in it and make apps in minutes.
 
+i meant solutions in minutes.
+
+im just excited because i just know how things work and how to make it better
+
 I just knew it and i wanted to find it within my curiosity.
 
 I'll be using C++ so it make take a little while to practice.
