@@ -1,4 +1,4 @@
-# Javascript_competitive_Practice
+# Competitive_Practice
 (Aj's Competitive programming Repo)
 
 This is my competitive programming Repo.
