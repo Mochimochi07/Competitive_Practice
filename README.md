@@ -21,7 +21,7 @@ I want to be in it and make apps in minutes.
 
 i meant solutions in minutes.
 
-im just excited because i just know how things work and how to make it better
+pardon me, im just excited because i just know how things work and how to make it better
 
 I just knew it and i wanted to find it within my curiosity.
 
