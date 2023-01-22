@@ -6,6 +6,6 @@ prob.2 Given a string, write a function to check if it is a palindrome. A palind
 
 prob.3 Given a list of integers, write a function to find the second largest number in the list.
 
-prob.4
+prob.4 Given a list of words and a target word, write a function that returns the number of times the target word appears in the list.
 
 prob.5
