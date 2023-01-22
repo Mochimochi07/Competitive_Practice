@@ -18,6 +18,11 @@ I just knew it and i wanted to find it within my curiosity.
 I'll be using C++ so it make take a little while to practice.
 I have stock knowledge about c++ so i might have a little time for getting the hang of it in a few hours.
 
+++++++++++++ 2
+
+I decided not to go into competitive anymore.
+and I'll just go for Hackathons.
+
 
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
