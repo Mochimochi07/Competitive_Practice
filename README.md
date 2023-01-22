@@ -22,6 +22,7 @@ I have stock knowledge about c++ so i might have a little time for getting the h
 
 I decided not to go into competitive anymore.
 and I'll just go for Hackathons.
+For that i will just be posting a maximum of 5 only in the repository.
 
 
 
