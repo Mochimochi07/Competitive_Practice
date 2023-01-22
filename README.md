@@ -28,15 +28,7 @@ For that i will just be posting a maximum of 5 only in the repository.
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-C# with Xojo. 
 
-Golang with javascript. 
-
-and C++ for mostly everything.
-
-The trinity for coding is now complete.
-
-Feel free to see my pratice in this repo.
 
 
 
