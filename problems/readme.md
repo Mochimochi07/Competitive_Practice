@@ -8,4 +8,4 @@ prob.3 Given a list of integers, write a function to find the second largest num
 
 prob.4 Given a list of words and a target word, write a function that returns the number of times the target word appears in the list.
 
-prob.5
+prob.5 Given a list of integers, write a function that returns a new list containing all the elements of the original list in reverse order.
